@@ -1,0 +1,28 @@
+nav {
+  display: flex;
+  justify-content: space-around;
+  background-color: grey;
+  padding: 1rem;
+}
+
+nav a{
+  color: white;
+  padding: .5rem;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+}
+
+.selected {
+  border: solid white 1px;
+}
+
+#red{
+  color: red;
+}
+
+#blue{
+  color: blue;
+}
